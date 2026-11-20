@@ -1,2 +1,2 @@
 # basic-project-django
-prueba julio
+prueba julio eduardo
